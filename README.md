@@ -1,2 +1,2 @@
 # Cs50-AI
-This will contain my solutions to all cs50 projects.
+Solutions to all of CS50 AI projects
